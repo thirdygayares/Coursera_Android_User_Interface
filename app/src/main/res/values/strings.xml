@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CourseraKotlin</string>
+    <string name="firstname">thirdy</string>
+    <string name="lastname">gayares</string>
+    <string name="send">send</string>
+    <string name="receive">receive</string>
+
 </resources>
