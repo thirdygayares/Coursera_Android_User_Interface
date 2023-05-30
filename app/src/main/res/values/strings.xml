@@ -4,5 +4,6 @@
     <string name="lastname">gayares</string>
     <string name="send">send</string>
     <string name="receive">receive</string>
+    <string name="Order">order</string>
 
 </resources>
